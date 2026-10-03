@@ -1,0 +1,12 @@
+# Binaries
+*.exe
+/kvnode
+/kvbench
+
+# Node data directories
+/data/
+
+# Test output
+*.test
+*.out
+linearizability-violation.html
